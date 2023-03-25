@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\bin\Debug\Data_Filtering.exe.config
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\bin\Debug\Data_Filtering.exe
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\bin\Debug\Data_Filtering.pdb
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\obj\Debug\Data_Filtering.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\obj\Debug\Data_Filtering.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\obj\Debug\Data_Filtering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\obj\Debug\Data_Filtering.exe
+C:\Users\Admin\source\repos\Data_Filtering\Data_Filtering\obj\Debug\Data_Filtering.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\bin\Debug\Creation_Delegates.exe.config
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\bin\Debug\Creation_Delegates.exe
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\bin\Debug\Creation_Delegates.pdb
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\obj\Debug\Creation_Delegates.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\obj\Debug\Creation_Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\obj\Debug\Creation_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\obj\Debug\Creation_Delegates.exe
+C:\Users\Admin\source\repos\Creation_Delegates\Creation_Delegates\obj\Debug\Creation_Delegates.pdb

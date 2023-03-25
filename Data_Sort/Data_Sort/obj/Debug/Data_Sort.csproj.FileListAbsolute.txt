@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\bin\Debug\Data_Sort.exe.config
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\bin\Debug\Data_Sort.exe
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\bin\Debug\Data_Sort.pdb
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\obj\Debug\Data_Sort.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\obj\Debug\Data_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\obj\Debug\Data_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\obj\Debug\Data_Sort.exe
+C:\Users\Admin\source\repos\Data_Sort\Data_Sort\obj\Debug\Data_Sort.pdb

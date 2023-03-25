@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\bin\Debug\Data_Grouping.exe.config
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\bin\Debug\Data_Grouping.exe
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\bin\Debug\Data_Grouping.pdb
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\obj\Debug\Data_Grouping.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\obj\Debug\Data_Grouping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\obj\Debug\Data_Grouping.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\obj\Debug\Data_Grouping.exe
+C:\Users\Admin\source\repos\Data_Grouping\Data_Grouping\obj\Debug\Data_Grouping.pdb
